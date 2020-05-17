@@ -1,0 +1,41 @@
+
+MAGAZYN-------------------------------------------------------------
+Nazwa: A1
+Lista pomieszczeń: [
+
+	POMIESZCZENIE -> Id: 495053715, Rozmiar w m3: 297.0, Aktywność: Tak, Właściciel: Brak
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 284720968, Rozmiar w m3: 347.0, Aktywność: Tak, Właściciel: Jan Kowalski (92042203523)
+	Lista przedmiotów: [
+		PRZEDMIOT -> Nazwa: Regał, Objętość w m3: 32.0, 
+		SAMOCHOD -> Marka: Porsche, Objętość w m3: 16.78, Rodzaj paliwa: Benzyna, 
+		SAMOCHOD -> Marka: Fiat, Objętość w m3: 15.0, Rodzaj paliwa: Gaz, 
+		PRZEDMIOT -> Nazwa: Pudło duże, Objętość w m3: 7.0, 
+		PRZEDMIOT -> Nazwa: Akwarium, Objętość w m3: 2.5, 
+		PRZEDMIOT -> Nazwa: Pudło średnie, Objętość w m3: 2.5, 
+		PRZEDMIOT -> Nazwa: Pudło średnie, Objętość w m3: 2.5], 
+
+	POMIESZCZENIE -> Id: 1854731462, Rozmiar w m3: 361.0, Aktywność: Nie, Właściciel: Brak
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 1922154895, Rozmiar w m3: 554.0, Aktywność: Tak, Właściciel: Brak
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 793589513, Rozmiar w m3: 651.0, Aktywność: Tak, Właściciel: Brak
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 2093176254, Rozmiar w m3: 747.0, Aktywność: Tak, Właściciel: Brak
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 1313922862, Rozmiar w m3: 780.0, Aktywność: Tak, Właściciel: Jan Kowalski (92042203523)
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 883049899, Rozmiar w m3: 837.0, Aktywność: Tak, Właściciel: Brak
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 189568618, Rozmiar w m3: 917.0, Aktywność: Tak, Właściciel: Jan Kowalski (92042203523)
+	Lista przedmiotów: [], 
+
+	POMIESZCZENIE -> Id: 317574433, Rozmiar w m3: 985.0, Aktywność: Nie, Właściciel: Brak
+	Lista przedmiotów: []]
